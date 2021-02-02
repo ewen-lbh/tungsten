@@ -1,5 +1,7 @@
 # Tungsten - WolframAlpha CLI
 
+This fork (will) leverage UTF-8 characters to get a nicer output (see #1)
+
 ## Overview
 
 A GPLv3+ licensed bash script that processes queries with the **WolframAlpha API**. It is named tungsten because that word refers to the same metal that wolfram does, respectively of Swedish and German origin.
