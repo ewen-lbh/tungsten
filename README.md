@@ -1,6 +1,6 @@
 # Tungsten - WolframAlpha CLI
 
-This fork (will) leverage UTF-8 characters to get a nicer output (see #1)
+This fork (will) leverage UTF-8 characters to get a nicer output (see ewen-lbh/tungsten-fancy#1)
 
 ## Overview
 
